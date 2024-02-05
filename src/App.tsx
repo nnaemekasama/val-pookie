@@ -1,9 +1,9 @@
 import { useState } from "react"
 
 const content = [
-  "No",
-  "Fuck No",
-  "I said no",
+  "are you sure?",
+  "nah",
+  "uhmmm",
   "maybe",
   "oya",
   "hmmmmmmmmmmmm",
